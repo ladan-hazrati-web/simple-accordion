@@ -9,7 +9,7 @@
 
 - Created - 2023-12-05
 
-- Technologies Used - Html , css , Flex , SASS
+- Technologies Used - HTML ,CSS ,SASS , JavaScript
 
 - Hooks Used : useState 
 
